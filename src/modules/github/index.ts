@@ -2,4 +2,4 @@ export { default } from './reducer';
 export * from './actions';
 export * from './types';
 export * from './thunks';
-export * from './saga';
+export * from './sagas';
